@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="" alt="Hello world">
+<img src="https://drjplopes.com/media/BlogBanners/Hello-World_Banner.png" alt="Hello world">
 </p>
