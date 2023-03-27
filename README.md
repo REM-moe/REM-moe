@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![](https://img.shields.io/badge/github-blue?style=for-the-badge)](https://github.com/REM-moe)
+<img align="left" title="Python" alt="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
 <img src="https://drjplopes.com/media/BlogBanners/Hello-World_Banner.png" alt="Hello world">
 </p>
