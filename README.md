@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 <!--
 **REM-moe/REM-moe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://preview.redd.it/n93k6oc2wab71.png?width=3840&format=png&auto=webp&s=31f81b78691558855767987651ce41b3f2606d77" alt="Hello world">
+</p>
