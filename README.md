@@ -33,4 +33,4 @@ Here are some ideas to get you started:
 <p>
   <h2>📈 my github stats</h2>
 </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=REM-moe&show_icons=true&theme=gotham" alt="aby" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=REM-moe&show_icons=true&theme=gotham" alt="aby" width=400px/>
