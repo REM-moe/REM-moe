@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![](https://img.shields.io/badge/github-blue?style=for-the-badge)](https://github.com/REM-moe)
+<a href="https://www.linkedin.com/in/abhay-k-v">
+  <img align="left" alt="Abhay's LinkedIN" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
 <div>
   <img src="https://drjplopes.com/media/BlogBanners/Hello-World_Banner.png" alt="Hello world">
 </div>
@@ -21,5 +25,12 @@ Here are some ideas to get you started:
   Technologies I Use
 </p>
 <div>
-  <img align="left" title="Python" alt="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="40"   height="40" style="vertical-align:down; margin:4px"/>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+  <code><img height="40" src=''></code>
 </div>
+
+<p>
+  <h2>📈 my github stats</h2>
+</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=REM-moe&show_icons=true&theme=gotham" alt="aby" />
