@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </a>
 
 <div>
-  <img src="https://drjplopes.com/media/BlogBanners/Hello-World_Banner.png" alt="Hello world">
+  <img src="https://drjplopes.com/media/BlogBanners/Hello-World_Banner.png" alt="Hello world" width=800px>
 </div>
 <p>
   Technologies I Use
