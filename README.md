@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![](https://img.shields.io/badge/github-blue?style=for-the-badge)](https://github.com/REM-moe)
 <a href="https://www.linkedin.com/in/abhay-k-v">
   <img align="left" alt="Abhay's LinkedIN" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
