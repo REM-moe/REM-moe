@@ -1,21 +1,14 @@
 
-<!--
-**REM-moe/REM-moe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Hello World!**
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning Rust
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
 <a href="https://www.linkedin.com/in/abhay-k-v">
   <img align="left" alt="Abhay's LinkedIN" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+
 
 <div>
   <img src="https://drjplopes.com/media/BlogBanners/Hello-World_Banner.png" alt="Hello world" width=800px>
