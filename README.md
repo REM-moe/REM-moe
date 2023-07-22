@@ -2,7 +2,7 @@
 # Hello Abhay aka REM-moe Here
 
 - :zap: I love  Comp Sci
-- :hammer: I'm currently tring to learn **Rust**
+- :hammer: I'm currently  learning **Rust**
 - :penguin: Love Linux <3 :wink:  
 
 ## :hammer_and_wrench: Tools i work with
