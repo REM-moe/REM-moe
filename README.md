@@ -26,4 +26,3 @@
 ![Visual Studi Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 <br/><br/></br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=REM-moe&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
