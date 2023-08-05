@@ -1,5 +1,5 @@
 
-# Hello Abhay aka REM-moe Here
+# Hello Abhay Here
 
 - :zap: I love  Comp Sci
 - :hammer: I'm currently  learning **Rust**
