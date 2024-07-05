@@ -2,12 +2,10 @@
 # Hello Abhay Here
 
 - :zap: I love  Comp Sci
-- :hammer: I'm currently  learning **Rust**
 - :penguin: Love Linux <3 :wink:  
 
 ## :hammer_and_wrench: Tools i work with
 
-![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324)
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
