@@ -25,5 +25,7 @@
 </td>
 </tr>
 </table>
+
 <sub>📍 India • ✉️ [Email](mailto:abhaykv111@gmail.com) • 💼 [LinkedIn](https://www.linkedin.com/in/abhay-k-v/)</sub>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="footer"/>
