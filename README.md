@@ -24,6 +24,3 @@
 * **[zig-viz](https://github.com/REM-moe/zig-viz)** — Audio visualizer exploring low-level memory safety.
 
 --------------------
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=REM-moe&theme=transparent&hide_border=true" alt="GitHub Streak" />
-</div>
