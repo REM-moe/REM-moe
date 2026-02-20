@@ -14,6 +14,8 @@
 * **[glowing-avatar](https://github.com/REM-moe/glowing_avatar)** [![Pub](https://img.shields.io/pub/v/glowing_avatar.svg)](https://pub.dev/packages/glowing_avatar) — Animated user avatars.
 * **[watr](https://github.com/REM-moe/watr_public)** — Smart Hydration System (ESP32 + Flutter) with <500ms latency.
 * **[nutriscan](https://github.com/REM-moe/NutriScan)** — Diet Safety AI using Gemini OCR.
+* **[off_ide](https://github.com/off-by-2/off_ide)** —  An IDE like UI UX shell for web apps  - WIP
+
 
 ### 🐹 Go
 * **[sal](https://github.com/off-by-2/sal)** —  salvia go backend  - WIP
