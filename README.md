@@ -16,9 +16,9 @@
 * **[nutriscan](https://github.com/REM-moe/NutriScan)** — Diet Safety AI using Gemini OCR.
 
 ### 🐹 Go
-* **[sal](https://github.com/off-by-2/sal)** —  salvia go backend
-* **[gengine](https://github.com/REM-moe/gengine)** — Physics engine written in Go.
-* **[go-qr](https://github.com/REM-moe/go-qr)** — QR code encoder.
+* **[sal](https://github.com/off-by-2/sal)** —  salvia go backend  - WIP
+* **[gengine](https://github.com/REM-moe/gengine)** — Physics engine written in Go.  - WIP
+* **[go-qr](https://github.com/REM-moe/go-qr)** — QR code encoder. - WIP
 * **[go-LUT](https://github.com/REM-moe/go_LUT)** — High-performance image processing using .cube LUTs.
 
 ### ⚡ Zig
